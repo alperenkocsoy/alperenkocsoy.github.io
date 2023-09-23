@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+
+<iframe src="[https://github.com/alperenkocsoy/alperenkocsoy.github.io/blob/master/cv2.pdf]" width="100%" height="500px"></iframe>
+
+
 {% include base_path %}
 
 Education

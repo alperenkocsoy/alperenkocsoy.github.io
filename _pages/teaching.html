@@ -1,1 +1,16 @@
-You will see the modules that I teach at Durham University
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
+
+
+
+Here you will see the modules U teach at Durham University
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}

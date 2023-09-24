@@ -7,7 +7,7 @@ author_profile: true
 <style>
     .abstract {
         text-align: justify;
-        padding-left: 1in;
+        padding-left: 0.2in;
         font-style: italic;
     }
 </style>

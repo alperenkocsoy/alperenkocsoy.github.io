@@ -12,4 +12,4 @@ I am a PhD candidate in Economics at Durham University, specialising in applied 
 
 Before starting my PhD, I worked as a Hospitality Coordinator at UEFA.
 
-I will be in the Sport Management Job Market for the 2024-2025 Academic Year.
+I will be in the job market for the 2024-2025 Academic Year.
